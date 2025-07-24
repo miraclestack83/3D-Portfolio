@@ -47,27 +47,12 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-6xl leading-[30px]"
       >
-        I’m Genius Developer, a senior software engineer with over 9 years of
-        experience in software engineering, web and mobile development.
+        I’m a Senior Full-Stack Developer with 10+ years of experience building scalable web and mobile applications for enterprise and cloud-native environments. Highly organized and self-motivated, I specialize in both frontend and backend technologies—including Python/Django, Java/Spring Boot, ASP.NET/C#, and full-stack JavaScript (React, Vue, Angular, Node.js). I’m also skilled in mobile development with React Native and Flutter, performance optimization, and team mentorship.
         <br />
-        I’m highly organized, self-motivated, and proficient with both frontend
-        & backend technologies.
-        <br />
-        I’m seeking to use my hard won technical and programming skills
-        alongside proven project management to improve quality, cost and time
-        metrics for web & mobile application development.
-        <br />
-        I am a great communicator, enjoy collaborating within teams where I
-        bring my creativity in problem solving, drive and efficiency to the
-        table. I believe in being a self-starter, thinking critically and taking
-        accountability for my work and responsibilities while inspiring the same
-        in people around me.
+        A strong advocate for clean architecture and DevOps best practices, I deliver robust, high-availability solutions that drive real business value. I’m known for clear communication, creative problem-solving, and a strong sense of ownership—both individually and within teams.
         <br />
         <br />
-        The great philosopher Plato once said, “The beginning is the most
-        important part of the work.”
-        <br />
-        Please feel free to message me and start your project with me.
+        “The beginning is the most important part of the work.” – Plato
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

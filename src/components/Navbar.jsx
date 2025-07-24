@@ -62,7 +62,7 @@ const Navbar = () => {
         >
           <img src={logo} alt="logo" className="object-contain round-img" style={{ height: 60, }} />
           {/* <p className="text-white text-[18px] font-bold cursor-pointer flex ">
-            Genius Dev &nbsp;
+            Edwin Perez &nbsp;
           </p> */}
         </Link>
 

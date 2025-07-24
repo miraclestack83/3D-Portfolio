@@ -27,16 +27,16 @@ const Contact = () => {
 
     emailjs
       .send(
-        "service_tznutws",
-        "template_k5ljddk",
+        "service_i29wbxc",
+        "template_visze1f",
         {
-          form_name: form.name,
-          to_name: "GENIUSDEV",
+          from_name: form.name,
+          to_name: "Edwin Perez",
           from_email: form.email,
-          to_email: "geniusdev0813@gmail.com",
+          to_email: "edwin.perez8583@gmail.com",
           message: form.message,
         },
-        "tZodxF4-YkMwJWCtD"
+        "Hkr10XUdoVD8GYkuB"
       )
       .then(
         () => {
@@ -77,7 +77,7 @@ const Contact = () => {
 
           <div className="w-full flex justify-start items-start" >
             <div
-              onClick={() => window.open("mailto:geniusdev0813@gmail.com", "_blank")}
+              onClick={() => window.open("mailto:edwin.perez8583@gmail.com", "_blank")}
               className="w-10 h-10 rounded-full flex justify-center items-center cursor-pointer"
             >
               <img src="https://img.icons8.com/fluency/96/undefined/circled-envelope.png" width="50" height="50" />
@@ -85,22 +85,22 @@ const Contact = () => {
             &nbsp;&nbsp;
 
             <div
-              onClick={() => window.open("https://t.me/geniusdev0813", "_blank")}
+              onClick={() => window.open("https://t.me/softwinner0813", "_blank")}
               className="w-10 h-10 rounded-full flex justify-center items-center cursor-pointer"
             >
               <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" style={{ width: 35, height: 35 }} />
             </div>
             &nbsp;&nbsp;
             <div
-              onClick={() => window.open("https://join.skype.com/invite/FkUFFPapLZRr", "_blank")} title="live:.cid.5c18b73dc33affe5"
+              onClick={() => window.open("https://www.linkedin.com/in/edwinperez1985080372", "_blank")} title="live:.cid.5c18b73dc33affe5"
               className=" w-10 h-10 rounded-full flex justify-center items-center cursor-pointer"
             >
-              <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Skype_logo_%282019%E2%80%93present%29.svg" style={{ width: 35, height: 35 }} />
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style={{ width: 35, height: 35 }} />
             </div>
             &nbsp;&nbsp;
 
             <div
-              onClick={() => window.open("https://github.com/softwinner813", "_blank")}
+              onClick={() => window.open("https://github.com/miraclestack83", "_blank")}
               className="w-10 h-10 rounded-full flex justify-center items-center cursor-pointer" style={{ backgroundColor: '#00b1eb', color: "white" }}
             >
               <img src="https://img.icons8.com/glyph-neue/64/FFFFFF/github.png" style={{ width: 35, height: 35 }} />
@@ -108,7 +108,7 @@ const Contact = () => {
 
             &nbsp;&nbsp;
             <div
-              onClick={() => window.open("tel:+13157580444", "_blank")} title="+1 315 758 0444"
+              onClick={() => window.open("tel:+17253279511", "_blank")} title="+1 725 327 9511"
               className="w-10 h-10 rounded-full flex justify-center items-center cursor-pointer" style={{ padding: 5, backgroundColor: '#00b1eb', color: "white" }}
             >
               <img src="https://img.icons8.com/ios-filled/50/ffffff/phone.png" style={{ width: 35, height: 35 }} />
