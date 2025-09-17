@@ -47,12 +47,13 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-6xl leading-[30px]"
       >
-        I’m a Senior Full-Stack Developer with 10+ years of experience building scalable web and mobile applications for enterprise and cloud-native environments. Highly organized and self-motivated, I specialize in both frontend and backend technologies—including Python/Django, Java/Spring Boot, ASP.NET/C#, and full-stack JavaScript (React, Vue, Angular, Node.js). I’m also skilled in mobile development with React Native and Flutter, performance optimization, and team mentorship.
+       A Senior Full-Stack Developer with 10+ years of experience designing, developing, and deploying scalable backend systems across enterprise and cloud-native environments. Expert in Node.js/Express, Python/Django, Java/Spring Boot, and ASP.NET/C#, with strong full-stack experience in JavaScript frameworks such as React.js, Vue.js, Angular, and Node.js (MERN stack). Skilled in mobile development using React Native and Flutter. Proven success in backend integrations, system performance optimization, and engineering team mentorship.
         <br />
-        A strong advocate for clean architecture and DevOps best practices, I deliver robust, high-availability solutions that drive real business value. I’m known for clear communication, creative problem-solving, and a strong sense of ownership—both individually and within teams.
+        A strong focus on clean architecture, DevOps best practices (CI/CD, containerization, infrastructure-as-code), and delivering high-availability, fault-tolerant software with measurable business impact.
         <br />
         <br />
         “The beginning is the most important part of the work.” – Plato
+
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

@@ -132,10 +132,10 @@ const technologies = [
 const experiences = [
   {
     title: "Senior Software Engineer",
-    company_name: "Rimini Street",
-    icon: backend, // generic backend icon
+    company_name: "Vention",
+    icon: backend,
     iconBg: "#383E56",
-    date: "Feb 2023 – Apr 2025",
+    date: "Feb 2023 – July 2025",
     points: [
       "Architected scalable backend systems using Python/Django, improving SaaS platform response times by 40% and achieving 99.9% uptime during 3x user growth.",
       "Implemented CI/CD pipelines and cloud infrastructure with Docker, GitHub Actions, and AWS (EC2, RDS, Lambda), reducing MTTR by 50%.",
@@ -149,9 +149,9 @@ const experiences = [
   },
   {
     title: "Senior Full-Stack Developer",
-    company_name: "Codingscape",
-    icon: web, // generic web icon
-    iconBg: "#383E56",
+    company_name: "SumatoSoft",
+    icon: fullstack,
+    iconBg: "#E6DEDD",
     date: "May 2018 – Dec 2022",
     points: [
       "Led backend development for enterprise SaaS systems with Python/Django, maintaining 99.9% uptime and cutting feature release time by 40%.",
@@ -166,7 +166,7 @@ const experiences = [
   {
     title: "Back-End Developer",
     company_name: "IBM",
-    icon: jobit, // generic job icon
+    icon: backend,
     iconBg: "#383E56",
     date: "Mar 2014 – Sep 2017",
     points: [
@@ -178,30 +178,31 @@ const experiences = [
   },
   {
     title: "Full-Stack Developer",
-    company_name: "Pact-One Solutions, LLC",
-    icon: creator, // generic creator icon
-    iconBg: "#383E56",
-    date: "Feb 2009 – Dec 2013",
+    company_name: "Ptolemay",
+    icon: fullstack,
+    iconBg: "#E6DEDD",
+    date: "Feb 2010 – Dec 2013",
     points: [
-      "Developed dental management platforms using ASP.NET/C# and React.js for scheduling, records, and billing.",
+      "Developed dental management platforms using ASP.NET/C# and Angular.js for scheduling, records, and billing, enhancing operational efficiency and user satisfaction.",
       "Redesigned UI/UX, resulting in a 22% increase in user engagement and 10% faster task completion.",
       "Led legacy refactoring efforts, improving stability and reducing maintenance effort by 25%.",
-      "Delivered HIPAA-compliant features, aligning technical delivery with client workflows.",
+      "Delivered HIPAA-compliant features, aligning technical delivery with client workflows, which ensured data security and improved client trust.",
     ],
   },
   {
     title: "Junior Web Developer",
     company_name: "NetEffect",
-    icon: mobile, // generic mobile icon
+    icon: web,
     iconBg: "#383E56",
-    date: "Aug 2007 – Nov 2008",
+    date: "Aug 2008 – Nov 2009",
     points: [
       "Built real estate client portal with MERN stack, boosting performance and engagement by 20%.",
       "Designed optimized REST APIs, improving data retrieval speeds by 15%.",
-      "Supported release stability through debugging, code reviews, and collaboration.",
+      "Enhanced release stability by debugging, conducting code reviews, and collaborating with team members.",
     ],
   },
 ];
+
 
 const projects = [
   {
@@ -466,10 +467,10 @@ const projects = [
 const education = [
   {
     degree: "Bachelor of Computer Science",
-    school: "Nevada State University | Henderson, NV",
+    school: "North Carolina State University | Raleigh, NC",
     icon: web, // Use a generic icon
     iconBg: "#383E56",
-    date: "2010 – 2014",
+    date: "2004 – 2008",
     points: [
       "Focused on software engineering, algorithms, and web development.",
       "Graduated with Honors.",

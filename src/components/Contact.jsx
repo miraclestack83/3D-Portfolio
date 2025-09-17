@@ -31,9 +31,9 @@ const Contact = () => {
         "template_visze1f",
         {
           from_name: form.name,
-          to_name: "Edwin Perez",
+          to_name: "Devin Hocutt",
           from_email: form.email,
-          to_email: "edwin.perez8583@gmail.com",
+          to_email: "dhocutt86@gmail.com",
           message: form.message,
         },
         "Hkr10XUdoVD8GYkuB"
@@ -77,7 +77,7 @@ const Contact = () => {
 
           <div className="w-full flex justify-start items-start" >
             <div
-              onClick={() => window.open("mailto:edwin.perez8583@gmail.com", "_blank")}
+              onClick={() => window.open("mailto:dhocutt86@gmail.com", "_blank")}
               className="w-10 h-10 rounded-full flex justify-center items-center cursor-pointer"
             >
               <img src="https://img.icons8.com/fluency/96/undefined/circled-envelope.png" width="50" height="50" />
@@ -92,7 +92,7 @@ const Contact = () => {
             </div>
             &nbsp;&nbsp;
             <div
-              onClick={() => window.open("https://www.linkedin.com/in/edwinperez1985080372", "_blank")} title="live:.cid.5c18b73dc33affe5"
+              onClick={() => window.open("https://www.linkedin.com/in/devin-h-239b021a5", "_blank")} title="live:.cid.5c18b73dc33affe5"
               className=" w-10 h-10 rounded-full flex justify-center items-center cursor-pointer"
             >
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style={{ width: 35, height: 35 }} />
@@ -108,7 +108,7 @@ const Contact = () => {
 
             &nbsp;&nbsp;
             <div
-              onClick={() => window.open("tel:+17253279511", "_blank")} title="+1 725 327 9511"
+              onClick={() => window.open("tel:+19843159646", "_blank")} title="+1 (984) 315-9646"
               className="w-10 h-10 rounded-full flex justify-center items-center cursor-pointer" style={{ padding: 5, backgroundColor: '#00b1eb', color: "white" }}
             >
               <img src="https://img.icons8.com/ios-filled/50/ffffff/phone.png" style={{ width: 35, height: 35 }} />
