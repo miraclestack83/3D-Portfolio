@@ -1,0 +1,316 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Welcome!",
+                "title_short_nav": "About me",
+                "title_long_prefix": "Hello...",
+                "title_long": "I'm {{Devin Hocutt!}}"
+            }
+        }
+    },
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleInlineList",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "display_as_list_if_width_is_lower_than": 380
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "label": "Fuquay Varina, NC 27526",
+                    "link": {
+                        "href": "",
+                        "tooltipString": ""
+                    },
+                    "faIcon": "pi pi-map-marker"
+                },
+                {
+                    "id": 2,
+                    "label": "dhocutt86@gmail.com",
+                    "link": {
+                        "href": "mailto:dhocutt86@gmail.com",
+                        "tooltipString": "email_me"
+                    },
+                    "faIcon": "fa-regular fa-envelope"
+                },
+                {
+                    "id": 3,
+                    "label": "+1 (984) 315-9646",
+                    "link": {
+                        "href": "tel:19843159646",
+                        "tooltipString": "call_me"
+                    },
+                    "faIcon": "fa-solid fa-phone"
+                },
+                {
+                    "id": 4,
+                    "label": "@miraclestack83",
+                    "link": {
+                        "href": "https://github.com/miraclestack83",
+                        "tooltipString": "see_on_github"
+                    },
+                    "faIcon": "fa-brands fa-github"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "component": "ArticleText",
+            "locales": {
+                "en": {
+                    "title": "{{A little bit}} about me..."
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "images/pictures/about-texts-image-1.png",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "text": "<p>Innovative {{Senior Full-Stack Engineer}} with over a decade of experience architecting and scaling high-performance web platforms using React.js, Next.js, Node.js/Express, and MongoDB or SQL. Highly versatile across Angular.js, Vue.js, and Nest.js, and experienced with Python/Django, C#/.NET, Java/Spring Boot and PHP/Laravel for cross-platform and enterprise-grade development.</p><p>Experienced across SaaS, eCommerce, healthcare, and enterprise automation, delivering solutions that transform complex ideas into lasting impact. Guided by the belief that \"the only way to do great work is to love what you do,\" I approach every project with purpose, precision, and pride in engineering excellence.</p>"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "component": "ArticleTestimonials",
+            "locales": {
+                "en": {
+                    "title": "Client {{testimonials}}"
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "label": "Sophia Martinez",
+                    "link": {
+                        "href": "https://linkedin.com/in/sophiamartinez",
+                        "tooltipString": "open_website"
+                    },
+                    "img": "images/pictures/testimonial-person-female-1.png",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "CTO at [[FinTech Solutions]]",
+                            "text": "Devin's expertise in full stack development and modern web technologies was instrumental in delivering a scalable, high-impact solution for our business. His attention to detail, commitment to best practices, and collaborative approach made a significant difference in our project's success."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "label": "David Kim",
+                    "link": {
+                        "href": "https://github.com/davidkimdev",
+                        "tooltipString": "open_website"
+                    },
+                    "img": "images/pictures/testimonial-person-male-1.png",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Lead Backend Engineer at [[CloudWare Inc.]]",
+                            "text": "Devin's deep knowledge of REST/GraphQL APIs and DevOps automation enabled our team to deliver robust, maintainable systems. His ability to optimize both relational and NoSQL databases for performance and scalability was invaluable."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "label": "Isabelle Dubois",
+                    "link": {
+                        "href": "https://dribbble.com/isabelledubois",
+                        "tooltipString": "open_website"
+                    },
+                    "img": "images/pictures/testimonial-person-female-2.png",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Product Manager at [[BrightApps]]",
+                            "text": "Working with Devin was a game changer. His expertise in modern front-end frameworks and UX/UI best practices elevated our product's user experience and accessibility to a new level."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "label": "Marcus Lee",
+                    "link": {
+                        "href": "https://linkedin.com/in/marcusleeux",
+                        "tooltipString": "open_website"
+                    },
+                    "img": "images/pictures/testimonial-person-male-2.png",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "UX Director at [[Visionary Designs]]",
+                            "text": "Devin's innovative thinking and cross-functional collaboration skills brought fresh perspectives to our design and development process, resulting in a more impactful and scalable solution."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "component": "ArticleInfoList",
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "locales": {
+                "en": {
+                    "title": "Personal {{interests}}"
+                }
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "faIcon": "fa-solid fa-video",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "label": null,
+                    "link": {
+                        "href": null,
+                        "tooltipString": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{AI}} video editing",
+                            "text": "Learning to use AI tools to enhance my videos."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "faIcon": "fa-solid fa-palette",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "label": null,
+                    "link": {
+                        "href": null,
+                        "tooltipString": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Arts}} & Illustration",
+                            "text": "Practicing digital art and exploring new styles."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "faIcon": "fa-solid fa-chart-line",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "label": null,
+                    "link": {
+                        "href": null,
+                        "tooltipString": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Investing}} & Finance",
+                            "text": "Learning the basics of stocks and personal finance."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "faIcon": "fa-solid fa-window-restore",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "label": null,
+                    "link": {
+                        "href": null,
+                        "tooltipString": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{UX}} design",
+                            "text": "Studying user experience principles."
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "img": "",
+                    "faIcon": "fa-solid fa-camera-retro",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "label": null,
+                    "link": {
+                        "href": null,
+                        "tooltipString": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Photography}} & Photoshop",
+                            "text": "Enhancing photos through creative editing techniques."
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "faIcon": "fa-solid fa-drum-steelpan",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "label": null,
+                    "link": {
+                        "href": null,
+                        "tooltipString": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Playing {{drums}}",
+                            "text": "Exploring different genres and improving my skills."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

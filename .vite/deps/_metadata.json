@@ -1,0 +1,86 @@
+{
+  "hash": "80cb21f6",
+  "browserHash": "12983b79",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "7b22f562",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "c9431fb0",
+      "needsInterop": true
+    },
+    "@emailjs/browser": {
+      "src": "../../node_modules/@emailjs/browser/es/index.js",
+      "file": "@emailjs_browser.js",
+      "fileHash": "9fab6741",
+      "needsInterop": false
+    },
+    "react-bootstrap": {
+      "src": "../../node_modules/react-bootstrap/esm/index.js",
+      "file": "react-bootstrap.js",
+      "fileHash": "1da6ce53",
+      "needsInterop": false
+    },
+    "swiper/react": {
+      "src": "../../node_modules/swiper/swiper-react.mjs",
+      "file": "swiper_react.js",
+      "fileHash": "fa9ff64f",
+      "needsInterop": false
+    },
+    "swiper/modules": {
+      "src": "../../node_modules/swiper/modules/index.mjs",
+      "file": "swiper_modules.js",
+      "fileHash": "93649206",
+      "needsInterop": false
+    },
+    "bootstrap/js/src/modal": {
+      "src": "../../node_modules/bootstrap/js/src/modal.js",
+      "file": "bootstrap_js_src_modal.js",
+      "fileHash": "068ac0d8",
+      "needsInterop": false
+    },
+    "smooth-scrollbar": {
+      "src": "../../node_modules/smooth-scrollbar/index.js",
+      "file": "smooth-scrollbar.js",
+      "fileHash": "3168bc63",
+      "needsInterop": false
+    },
+    "smooth-scrollbar/plugins/overscroll": {
+      "src": "../../node_modules/smooth-scrollbar/plugins/overscroll/index.js",
+      "file": "smooth-scrollbar_plugins_overscroll.js",
+      "fileHash": "54b6b14d",
+      "needsInterop": false
+    },
+    "react-bootstrap/InputGroupText": {
+      "src": "../../node_modules/react-bootstrap/esm/InputGroupText.js",
+      "file": "react-bootstrap_InputGroupText.js",
+      "fileHash": "b0239cb4",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-PRQ7KJF5": {
+      "file": "chunk-PRQ7KJF5.js"
+    },
+    "chunk-U56BQHLO": {
+      "file": "chunk-U56BQHLO.js"
+    },
+    "chunk-XMMJGW5B": {
+      "file": "chunk-XMMJGW5B.js"
+    },
+    "chunk-AOGVTY2D": {
+      "file": "chunk-AOGVTY2D.js"
+    },
+    "chunk-HLZ74VTS": {
+      "file": "chunk-HLZ74VTS.js"
+    },
+    "chunk-5WWUZCGV": {
+      "file": "chunk-5WWUZCGV.js"
+    }
+  }
+}

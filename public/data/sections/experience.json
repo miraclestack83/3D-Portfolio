@@ -1,0 +1,251 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Experience",
+                "title_short_nav": "Experience",
+                "title_long_prefix": "Summary of my",
+                "title_long": "{{Work}} Experience"
+            }
+        }
+    },
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "dateStart",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "images/pictures/vention.jpeg",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "dateStart": {
+                        "year": 2022,
+                        "month": 12
+                    },
+                    "dateEnd": {
+                        "year": 2025,
+                        "month": 7
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Senior Full-Stack}} Engineer",
+                            "province": "",
+                            "country": "Remote",
+                            "institution": "Vention",
+                            "text": "Designed and scaled multi-tenant SaaS platforms using React.js (Next.js) and Node.js/Express, serving 1.2M+ active users with 99.95% uptime on AWS. Engineered server-side rendered React applications, cutting load times from 3.2s to 1.7s and improving SEO visibility by 48%.",
+                            "list": [
+                                "Deployed containerized microservices via Docker, Kubernetes, and GitHub Actions, reducing release cycles by 65%",
+                                "Implemented secure API gateways and optimized MongoDB pipelines, boosting throughput by 38% and reducing latency by 42%",
+                                "Enhanced AI-driven automation modules with Python/Django + React.js, lowering support workload by 35% and saving 1,400+ hours annually",
+                                "Built internal monitoring services with Go + React, enabling unified telemetry dashboards and 25% faster incident resolution",
+                                "Introduced real-time event streaming using WebSockets and RabbitMQ, cutting data propagation delays by 40% for 500K+ concurrent users",
+                                "Mentored eight engineers and standardized CI/CD templates, improving delivery velocity by 28%"
+                            ],
+                            "tags": [
+                                "React.js",
+                                "Next.js",
+                                "Node.js",
+                                "Express.js",
+                                "MongoDB",
+                                "Python",
+                                "Django",
+                                "Go",
+                                "Docker",
+                                "Kubernetes",
+                                "AWS",
+                                "WebSockets",
+                                "RabbitMQ"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": "images/pictures/sumatosoft.jpeg",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "dateStart": {
+                        "year": 2018,
+                        "month": 5
+                    },
+                    "dateEnd": {
+                        "year": 2022,
+                        "month": 12
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Senior Full-Stack}} Developer",
+                            "province": "",
+                            "country": "Remote",
+                            "institution": "SumatoSoft",
+                            "text": "Directed full-stack development for logistics platforms using React.js and Node.js, maintaining 99.9% uptime and scaling to 250K+ users. Developed high-performance REST/GraphQL APIs in Node.js with MongoDB, improving query performance by 45%.",
+                            "list": [
+                                "Distributed modular dashboards using Next.js, reducing feature rollout cycles by 35%",
+                                "Engineered backend analytics modules with Ruby on Rails + React.js, cutting report generation time by 50%",
+                                "Migrated legacy Angular.js apps into React.js SPAs, increasing frontend performance by 33%",
+                                "Implemented CI/CD pipelines with Docker, Jenkins, and AWS, decreasing integration time by 60%",
+                                "Created authentication framework reducing API latency by 27% and improving request consistency"
+                            ],
+                            "tags": [
+                                "React.js",
+                                "Next.js",
+                                "Node.js",
+                                "MongoDB",
+                                "GraphQL",
+                                "Ruby on Rails",
+                                "Angular.js",
+                                "Docker",
+                                "Jenkins",
+                                "AWS"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": "images/pictures/IBM.png",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "dateStart": {
+                        "year": 2015,
+                        "month": 1
+                    },
+                    "dateEnd": {
+                        "year": 2018,
+                        "month": 5
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Software}} Engineer",
+                            "province": "",
+                            "country": "US",
+                            "institution": "IBM",
+                            "text": "Expanded and deployed scalable Node.js/Express microservices on IBM Cloud (Bluemix), increasing system scalability by 30% and enhancing the overall reliability of enterprise SaaS operations. Integrated Watson AI APIs for NLP automation, reducing manual processing by 30% and improving accuracy by 25%.",
+                            "list": [
+                                "Improved internal enterprise tools using Java/Spring Boot + React.js, improving API performance by 40%",
+                                "Optimized MongoDB clusters with sharding and caching, improving query response time by 43%",
+                                "Automated Docker-based pipelines in Jenkins, increasing deployment reliability by 33%",
+                                "Redesigned API middleware layers to unify authentication and schema validation across hybrid stacks, reducing authorization errors by 40%",
+                                "Delivered internal DevOps utilities in Go, reducing system monitoring overhead by 20%"
+                            ],
+                            "tags": [
+                                "Node.js",
+                                "Express.js",
+                                "Java",
+                                "Spring Boot",
+                                "React.js",
+                                "MongoDB",
+                                "Docker",
+                                "Jenkins",
+                                "Go",
+                                "IBM Cloud",
+                                "Watson AI"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "img": "images/pictures/Ptolemay.jpeg",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "dateStart": {
+                        "year": 2010,
+                        "month": 2
+                    },
+                    "dateEnd": {
+                        "year": 2014,
+                        "month": 12
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Full-Stack Software}} Engineer",
+                            "province": "",
+                            "country": "US",
+                            "institution": "Ptolemay",
+                            "text": "Developed enterprise dental management systems using ASP.NET + Angular, improving workflow efficiency by 27%. Programmed RESTful APIs in .NET with SQL Server, increasing data reliability by 35% and improving sync performance.",
+                            "list": [
+                                "Refactored monolithic architecture into modular Node.js microservices, reducing release errors by 45%",
+                                "Built billing automation with Java/Spring Boot, streamlining payment processing and reducing errors by 22%",
+                                "Implemented Jenkins-driven automated testing pipelines, cutting post-release bugs by 32%",
+                                "Enforced end-to-end HIPAA compliance frameworks with AES-256 encryption and RBAC policies, passing 100% of security audits",
+                                "Modernized UI workflows, improving task completion time by 20% and satisfaction scores"
+                            ],
+                            "tags": [
+                                "ASP.NET",
+                                "C#",
+                                "Angular",
+                                "Node.js",
+                                "Java",
+                                "Spring Boot",
+                                "SQL Server",
+                                "Jenkins",
+                                "HIPAA"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "img": "images/pictures/NetEffect.jpeg",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "dateStart": {
+                        "year": 2008,
+                        "month": 8
+                    },
+                    "dateEnd": {
+                        "year": 2010,
+                        "month": 2
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Junior Web}} Developer",
+                            "province": "",
+                            "country": "US",
+                            "institution": "NetEffect",
+                            "text": "Developed LAMP-based eCommerce and real estate platforms using PHP (Laravel) and MySQL, achieving 99.8% uptime and 28% faster response times. Customized WordPress stores with automated inventory and payment integration, boosting client conversion rates by 22%.",
+                            "list": [
+                                "Built responsive layouts using HTML, CSS, and jQuery, improving mobile usability by 30%",
+                                "Delivered content-driven platforms using Python/Django + React.js, reducing load times by 33% and increasing engagement by 40%"
+                            ],
+                            "tags": [
+                                "PHP",
+                                "Laravel",
+                                "MySQL",
+                                "WordPress",
+                                "Python",
+                                "Django",
+                                "React.js",
+                                "HTML",
+                                "CSS",
+                                "jQuery"
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

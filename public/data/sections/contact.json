@@ -1,0 +1,120 @@
+//dhocutt86@gmail.com
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Contact",
+                "title_short_nav": "Contact",
+                "title_long_prefix": "Don't hesitate to",
+                "title_long": "{{Contact}} Me"
+            }
+        }
+    },
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleContactForm",
+            "settings": {
+                "email_js_public_key": "XfXxWjtAqDuiyl75I", 
+                "email_js_service_id": "service_ynh70rz",
+                "email_js_template_id": "template_fq16p8d"
+            },
+            "locales": {
+                "en": {
+                    "contact_thank_you_title": "{{Thanks}} for the contact!",
+                    "contact_thank_you_body": "Your message has been received, and I'll be reaching out to you soon. I appreciate your time and look forward to connecting with you!",
+                    "contact_thank_you_footer": "The reply will be sent to your email address: {{$email}}",
+                    "title": "Send me a {{message}}"
+                }
+            },
+            "items": null
+        },
+        {
+            "id": 2,
+            "component": "ArticleInfoList",
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "locales": {
+                "en": {
+                    "title": "Or if you {{prefer}}..."
+                }
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "faIcon": "fa-solid fa-phone",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "label": "+1 (984) 315-9646",
+                    "link": {
+                        "href": "tel:19843159646",
+                        "tooltipString": "call_me"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Phone"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "faIcon": "fa-solid fa-envelope",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "label": "dhocutt86@gmail.com",
+                    "link": {
+                        "href": "mailto:dhocutt86@gmail.com",
+                        "tooltipString": "email_me"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "E-mail"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "faIcon": "fa-brands fa-linkedin",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "label": "@devin-h-239b021a5",
+                    "link": {
+                        "href": "https://www.linkedin.com/in/devin-h-239b021a5",
+                        "tooltipString": "open_website"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "LinkedIn"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "faIcon": "fa-brands fa-github",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "label": "@miraclestack83",
+                    "link": {
+                        "href": "https://github.com/miraclestack83",
+                        "tooltipString": "open_website"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "GitHub"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

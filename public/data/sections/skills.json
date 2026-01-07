@@ -1,0 +1,841 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Skills",
+                "title_short_nav": "Skills",
+                "title_long_prefix": "Explore",
+                "title_long": "My {{Skill Set}}"
+            }
+        }
+    },
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleCards",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "faIcon": "fa-solid fa-laptop-code",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": "#007bff"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Website {{Development}}",
+                            "text": "Expert in building modern, scalable, and high-impact web applications using the latest technologies."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "faIcon": "fa-solid fa-mobile-alt",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": "#28a745"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Mobile App {{Development}}",
+                            "text": "Expert in cross-platform mobile app development with Flutter and React Native, delivering native performance and seamless user experiences on iOS and Android platforms."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "faIcon": "fa-solid fa-brain",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": "#6f42c1"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Artificial {{Intelligence}}",
+                            "text": "Experience in AI, machine learning, and automation using Python and modern frameworks."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "faIcon": "fa-solid fa-code-branch",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": "#17a2b8"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Microservices}} Architecture",
+                            "text": "Expert in designing and implementing microservices architectures with containerization and orchestration."
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "faIcon": "fa-solid fa-database",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": "#4479A1"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Database {{Management}}",
+                            "text": "Advanced experience in relational and NoSQL database design, optimization, and scaling."
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "faIcon": "fa-solid fa-cloud",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": "#17a2b8"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Cloud & {{DevOps}}",
+                            "text": "Expert in AWS, GCP, Docker, Kubernetes, CI/CD, and serverless architectures."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                    "title": "Backend Stack"
+                }
+            },
+            "settings": {
+                "max_items_per_row": 3,
+                "max_rows_collapse_threshold": 6,
+                "order_items_by": "percentage",
+                "order_items_sort": "desc",
+                "round_icons": false
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "faIcon": "fa-brands fa-node-js",
+                    "faIconColors": {
+                        "fill": "#339933"
+                    },
+                    "percentage": 100,
+                    "locales": {
+                        "en": {
+                            "title": "Node.js (Express.js, Nest.js)",
+                            "text": "Expert in building scalable backend services and APIs with Node.js ecosystem."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "faIcon": "fa-brands fa-python",
+                    "faIconColors": {
+                        "fill": "#306998"
+                    },
+                    "percentage": 95,
+                    "locales": {
+                        "en": {
+                            "title": "Python (Django)",
+                            "text": "Proficient in backend development and automation with Django."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "faIcon": "fa-brands fa-java",
+                    "faIconColors": {
+                        "fill": "#0295c2"
+                    },
+                    "percentage": 95,
+                    "locales": {
+                        "en": {
+                            "title": "Java (Spring Boot)",
+                            "text": "Experienced in building robust enterprise applications."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "faIcon": "fa-brands fa-php",
+                    "faIconColors": {
+                        "fill": "#FFD700"
+                    },
+                    "percentage": 100,
+                    "locales": {
+                        "en": {
+                            "title": "PHP (Laravel)",
+                            "text": "Advanced knowledge of PHP and Laravel for backend solutions."
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "faIcon": "fa-brands fa-cuttlefish",
+                    "faIconColors": {
+                        "fill": "#512BD4"
+                    },
+                    "percentage": 100,
+                    "locales": {
+                        "en": {
+                            "title": "C# (ASP.NET Core)",
+                            "text": "Proficient in building secure and scalable web APIs."
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "faIcon": "fa-brands fa-golang",
+                    "faIconColors": {
+                        "fill": "#00ADD8"
+                    },
+                    "percentage": 90,
+                    "locales": {
+                        "en": {
+                            "title": "Go (Golang) / Fiber",
+                            "text": "Experienced in building high-performance backend services and microservices with Go."
+                        }
+                    }
+                },
+                {
+                    "id": 7,
+                    "faIcon": "fa-brands fa-ruby",
+                    "faIconColors": {
+                        "fill": "#CC342D"
+                    },
+                    "percentage": 85,
+                    "locales": {
+                        "en": {
+                            "title": "Ruby on Rails",
+                            "text": "Proficient in building scalable web applications with Ruby on Rails."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                    "title": "Frontend Stack (Main)"
+                }
+            },
+            "settings": {
+                "max_items_per_row": 3,
+                "max_rows_collapse_threshold": 6,
+                "order_items_by": "percentage",
+                "order_items_sort": "desc",
+                "round_icons": false
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "faIcon": "fa-brands fa-react",
+                    "faIconColors": {
+                        "fill": "#61DAFB"
+                    },
+                    "percentage": 100,
+                    "locales": {
+                        "en": {
+                            "title": "React.js / Next.js",
+                            "text": "Expert in building modern, responsive UIs, SPAs, and server-side rendered applications."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "faIcon": "fa-brands fa-vuejs",
+                    "faIconColors": {
+                        "fill": "#4FC08D"
+                    },
+                    "percentage": 100,
+                    "locales": {
+                        "en": {
+                            "title": "Vue.js",
+                            "text": "Skilled in building interactive user interfaces."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "faIcon": "fa-brands fa-angular",
+                    "faIconColors": {
+                        "fill": "#DD0031"
+                    },
+                    "percentage": 95,
+                    "locales": {
+                        "en": {
+                            "title": "Angular.js / Angular",
+                            "text": "Experience with enterprise-grade front-end development and legacy migration."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "faIcon": "fa-brands fa-js",
+                    "faIconColors": {
+                        "fill": "#F7DF1E"
+                    },
+                    "percentage": 100,
+                    "locales": {
+                        "en": {
+                            "title": "JavaScript (ES6+) / TypeScript",
+                            "text": "Advanced proficiency in modern JavaScript and TypeScript for web development."
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "faIcon": "fa-brands fa-css3-alt",
+                    "faIconColors": {
+                        "fill": "#1572B6"
+                    },
+                    "percentage": 100,
+                    "locales": {
+                        "en": {
+                            "title": "CSS3 / SCSS / Tailwind CSS / Bootstrap / Material UI",
+                            "text": "Expert in responsive, accessible, and visually appealing design with modern UI frameworks."
+                        }
+                    }
+                },
+                {
+                    "id": 8,
+                    "faIcon": "fa-brands fa-react",
+                    "faIconColors": {
+                        "fill": "#764ABC"
+                    },
+                    "percentage": 100,
+                    "locales": {
+                        "en": {
+                            "title": "Redux",
+                            "text": "Expert in state management with Redux for complex React applications."
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "faIcon": "fa-brands fa-html5",
+                    "faIconColors": {
+                        "fill": "#E34F26"
+                    },
+                    "percentage": 100,
+                    "locales": {
+                        "en": {
+                            "title": "HTML5",
+                            "text": "Proficient in semantic, accessible markup."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                    "title": "Mobile Development"
+                }
+            },
+            "settings": {
+                "max_items_per_row": 2,
+                "max_rows_collapse_threshold": 4,
+                "order_items_by": "percentage",
+                "order_items_sort": "desc",
+                "round_icons": false
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "faIcon": "fa-brands fa-flutter",
+                    "faIconColors": {
+                        "fill": "#02569B"
+                    },
+                    "percentage": 100,
+                    "locales": {
+                        "en": {
+                            "title": "Flutter",
+                            "text": "Expert in building cross-platform mobile applications with Flutter and Dart, delivering native performance, beautiful UIs, and seamless experiences on both iOS and Android platforms."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "faIcon": "fa-brands fa-react",
+                    "faIconColors": {
+                        "fill": "#61DAFB"
+                    },
+                    "percentage": 100,
+                    "locales": {
+                        "en": {
+                            "title": "React Native",
+                            "text": "Expert in developing cross-platform mobile apps with React Native, leveraging JavaScript, React, and native modules to create high-performance iOS and Android applications."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                    "title": "Databases"
+                }
+            },
+            "settings": {
+                "max_items_per_row": 3,
+                "max_rows_collapse_threshold": 6,
+                "order_items_by": "percentage",
+                "order_items_sort": "desc",
+                "round_icons": false
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "faIcon": "fa-solid fa-database",
+                    "faIconColors": {
+                        "fill": "#4479A1"
+                    },
+                    "percentage": 100,
+                    "locales": {
+                        "en": {
+                            "title": "PostgreSQL / MySQL / MariaDB / SQLite",
+                            "text": "Advanced experience in relational database design and optimization."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "faIcon": "fa-solid fa-server",
+                    "faIconColors": {
+                        "fill": "#47A248"
+                    },
+                    "percentage": 100,
+                    "locales": {
+                        "en": {
+                            "title": "MongoDB / DynamoDB",
+                            "text": "Skilled in NoSQL database modeling and scaling."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "faIcon": "fa-solid fa-database",
+                    "faIconColors": {
+                        "fill": "#F80000"
+                    },
+                    "percentage": 95,
+                    "locales": {
+                        "en": {
+                            "title": "Oracle",
+                            "text": "Experience with enterprise-grade Oracle database systems."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "faIcon": "fa-solid fa-database",
+                    "faIconColors": {
+                        "fill": "#DC382D"
+                    },
+                    "percentage": 95,
+                    "locales": {
+                        "en": {
+                            "title": "Redis",
+                            "text": "Expert in Redis for caching, session management, and real-time applications."
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "faIcon": "fa-solid fa-database",
+                    "faIconColors": {
+                        "fill": "#FF6600"
+                    },
+                    "percentage": 90,
+                    "locales": {
+                        "en": {
+                            "title": "Elasticsearch",
+                            "text": "Experience with Elasticsearch for search and analytics."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                    "title": "Cloud & DevOps"
+                }
+            },
+            "settings": {
+                "max_items_per_row": 3,
+                "max_rows_collapse_threshold": 6,
+                "order_items_by": "percentage",
+                "order_items_sort": "desc",
+                "round_icons": false
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "faIcon": "fa-brands fa-aws",
+                    "faIconColors": {
+                        "fill": "#FF9900"
+                    },
+                    "percentage": 100,
+                    "locales": {
+                        "en": {
+                            "title": "AWS (EC2, Lambda, S3, RDS, CloudFront)",
+                            "text": "Extensive experience in cloud infrastructure, serverless, and AWS services."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "faIcon": "fa-brands fa-google",
+                    "faIconColors": {
+                        "fill": "#4285F4"
+                    },
+                    "percentage": 90,
+                    "locales": {
+                        "en": {
+                            "title": "Google Cloud Platform (GCP)",
+                            "text": "Experience deploying and managing applications on GCP."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "faIcon": "fa-brands fa-docker",
+                    "faIconColors": {
+                        "fill": "#2496ED"
+                    },
+                    "percentage": 100,
+                    "locales": {
+                        "en": {
+                            "title": "Docker / Kubernetes",
+                            "text": "Expert in containerization and orchestration for DevOps automation."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "faIcon": "fa-brands fa-jenkins",
+                    "faIconColors": {
+                        "fill": "#D24939"
+                    },
+                    "percentage": 95,
+                    "locales": {
+                        "en": {
+                            "title": "Jenkins / GitHub Actions / GitLab CI/CD",
+                            "text": "Skilled in CI/CD pipeline automation and integration."
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "faIcon": "fa-solid fa-server",
+                    "faIconColors": {
+                        "fill": "#009639"
+                    },
+                    "percentage": 95,
+                    "locales": {
+                        "en": {
+                            "title": "Nginx",
+                            "text": "Expert in Nginx for reverse proxy, load balancing, and web serving."
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "faIcon": "fa-solid fa-cloud",
+                    "faIconColors": {
+                        "fill": "#7B42BC"
+                    },
+                    "percentage": 90,
+                    "locales": {
+                        "en": {
+                            "title": "RabbitMQ / Kafka",
+                            "text": "Experienced in message queue systems for event-driven architectures."
+                        }
+                    }
+                },
+                {
+                    "id": 7,
+                    "faIcon": "fa-solid fa-cloud",
+                    "faIconColors": {
+                        "fill": "#623CE4"
+                    },
+                    "percentage": 85,
+                    "locales": {
+                        "en": {
+                            "title": "Terraform / CloudFormation",
+                            "text": "Proficient in Infrastructure as Code (IaC) for cloud resource management."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                    "title": "Testing & QA"
+                }
+            },
+            "settings": {
+                "max_items_per_row": 3,
+                "max_rows_collapse_threshold": 6,
+                "order_items_by": "percentage",
+                "order_items_sort": "desc",
+                "round_icons": false
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "faIcon": "fa-solid fa-vial",
+                    "faIconColors": {
+                        "fill": "#6C3483"
+                    },
+                    "percentage": 90,
+                    "locales": {
+                        "en": {
+                            "title": "JUnit / Jest / Mocha / Karma / Jasmine / Cypress",
+                            "text": "Proficient in automated testing, unit testing, and end-to-end testing for quality assurance."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                    "title": "Tools & Collaboration"
+                }
+            },
+            "settings": {
+                "max_items_per_row": 3,
+                "max_rows_collapse_threshold": 6,
+                "order_items_by": "percentage",
+                "order_items_sort": "desc",
+                "round_icons": false
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "faIcon": "fa-brands fa-git",
+                    "faIconColors": {
+                        "fill": "#F05032"
+                    },
+                    "percentage": 100,
+                    "locales": {
+                        "en": {
+                            "title": "Git",
+                            "text": "Expert in version control and team collaboration."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "faIcon": "fa-brands fa-jira",
+                    "faIconColors": {
+                        "fill": "#0052CC"
+                    },
+                    "percentage": 90,
+                    "locales": {
+                        "en": {
+                            "title": "Jira / Trello",
+                            "text": "Experienced in Agile project management and tracking."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "faIcon": "fa-solid fa-paper-plane",
+                    "faIconColors": {
+                        "fill": "#FF6F00"
+                    },
+                    "percentage": 90,
+                    "locales": {
+                        "en": {
+                            "title": "Postman",
+                            "text": "Proficient in API testing and collaboration."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "faIcon": "fa-brands fa-js",
+                    "faIconColors": {
+                        "fill": "#8DD6F9"
+                    },
+                    "percentage": 95,
+                    "locales": {
+                        "en": {
+                            "title": "Webpack / Babel / Vite",
+                            "text": "Expert in modern build tools and bundlers for JavaScript applications."
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "faIcon": "fa-solid fa-key",
+                    "faIconColors": {
+                        "fill": "#F7931E"
+                    },
+                    "percentage": 95,
+                    "locales": {
+                        "en": {
+                            "title": "JWT / OAuth2",
+                            "text": "Expert in authentication and authorization protocols."
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "faIcon": "fa-solid fa-plug",
+                    "faIconColors": {
+                        "fill": "#010101"
+                    },
+                    "percentage": 90,
+                    "locales": {
+                        "en": {
+                            "title": "REST API / GraphQL / WebSockets",
+                            "text": "Expert in building and consuming various API architectures."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                    "title": "Programming Languages"
+                }
+            },
+            "settings": {
+                "max_items_per_row": 3,
+                "max_rows_collapse_threshold": 6,
+                "order_items_by": "percentage",
+                "order_items_sort": "desc",
+                "round_icons": false
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "faIcon": "fa-brands fa-python",
+                    "faIconColors": {
+                        "fill": "#306998"
+                    },
+                    "percentage": 100,
+                    "locales": {
+                        "en": {
+                            "title": "Python",
+                            "text": "Advanced proficiency in Python for backend development, automation, and AI/ML integration."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "faIcon": "fa-brands fa-java",
+                    "faIconColors": {
+                        "fill": "#0295c2"
+                    },
+                    "percentage": 100,
+                    "locales": {
+                        "en": {
+                            "title": "Java",
+                            "text": "Expertise in Java for enterprise applications."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "faIcon": "fa-brands fa-js",
+                    "faIconColors": {
+                        "fill": "#F7DF1E"
+                    },
+                    "percentage": 100,
+                    "locales": {
+                        "en": {
+                            "title": "JavaScript",
+                            "text": "Expert in modern JavaScript for web development."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "faIcon": "fa-brands fa-php",
+                    "faIconColors": {
+                        "fill": "#FFD700"
+                    },
+                    "percentage": 100,
+                    "locales": {
+                        "en": {
+                            "title": "PHP",
+                            "text": "Advanced knowledge of PHP for backend development."
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "faIcon": "fa-brands fa-cuttlefish",
+                    "faIconColors": {
+                        "fill": "#512BD4"
+                    },
+                    "percentage": 90,
+                    "locales": {
+                        "en": {
+                            "title": "C#",
+                            "text": "Proficient in C# for web and API development."
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "faIcon": "fa-brands fa-html5",
+                    "faIconColors": {
+                        "fill": "#E34F26"
+                    },
+                    "percentage": 100,
+                    "locales": {
+                        "en": {
+                            "title": "HTML5",
+                            "text": "Expert in semantic, accessible markup."
+                        }
+                    }
+                },
+                {
+                    "id": 7,
+                    "faIcon": "fa-brands fa-css3-alt",
+                    "faIconColors": {
+                        "fill": "#1572B6"
+                    },
+                    "percentage": 100,
+                    "locales": {
+                        "en": {
+                            "title": "CSS3 / SCSS",
+                            "text": "Expert in modern CSS and pre-processors for styling."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

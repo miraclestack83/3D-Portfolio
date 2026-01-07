@@ -1,0 +1,598 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Portfolio",
+                "title_short_nav": "Portfolio",
+                "title_long_prefix": "Take a look at",
+                "title_long": "My {{Portfolio}}"
+            }
+        }
+    },
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticlePortfolio",
+            "locales": {
+                "en": {
+                    "category_all": "All",
+                    "category_apps": "Apps",
+                    "category_web": "Web",
+                    "category_others": "Others"
+                }
+            },
+            "settings": {
+                "categorize_by": [
+                    "category_web",
+                    "category_apps",
+                    "category_others"
+                ],
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "categoryId": "category_apps",
+                    "img": "images/pictures/movemint-app-logo.png",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://github.com/miraclestack83/Movemint",
+                                "tooltipString": "see_on_github",
+                                "faIcon": "fa-brands fa-github"
+                            },
+                            {
+                                "href": "https://www.figma.com/proto/xhNtQl7TGs8kHfdd0NAfWt/Movemint-Mobile?node-id=0-216&p=f&t=FVs7J5UQHeiVD8Pm-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1",
+                                "tooltipString": "open_website",
+                                "faIcon": "fa-brands fa-figma"
+                            }
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Movemint-App",
+                            "text": "A cross-platform mobile marketplace application built with <b>Flutter</b> and <b>Node.js backend</b>, connecting customers who need to move with professional carriers and movers. Customers can post their <b>move plans and budgets</b>, while movers can browse and apply to opportunities like a job board. Features include job board-style listings, competitive bidding, secure messaging, payment processing, and real-time updates for seamless coordination between customers and service providers.",
+                            "tags": [
+                                "Flutter",
+                                "Node.js",
+                                "Marketplace",
+                                "Moving Services",
+                                "Job Board"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "categoryId": "category_web",
+                    "img": "images/pictures/QuickWash.png",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://www.quickwashtech.com/",
+                                "tooltipString": "open_website",
+                                "faIcon": "fa-solid fa-link"
+                            },
+                            {
+                                "href": "https://github.com/miraclestack83/CarWash-Booking-AdminPanel",
+                                "tooltipString": "see_on_github",
+                                "faIcon": "fa-brands fa-github"
+                            }
+                        ],
+                        "screenshots": [
+                            "images/pictures/Portfolio/QuickWash/QuickWash1.png",
+                            "images/pictures/Portfolio/QuickWash/QuickWash2.png",
+                            "images/pictures/Portfolio/QuickWash/QuickWash3.png",
+                            "images/pictures/Portfolio/QuickWash/QuickWash4.png"
+                        ],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "QuickWash",
+                            "text": "A comprehensive web platform for mobile car wash booking and management, built with <b>Laravel</b> backend and modern frontend technologies. Features include booking system, admin panel, payment processing, and real-time service tracking.",
+                            "tags": [
+                                "Laravel",
+                                "PHP",
+                                "Car Wash",
+                                "Booking System"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "categoryId": "category_apps",
+                    "img": "images/pictures/QuickWash.png",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://play.google.com/store/apps/details?id=com.ltldriver.app",
+                                "tooltipString": "see_on_google_play",
+                                "faIcon": "fa-brands fa-google-play"
+                            },
+                            {
+                                "href": "https://github.com/miraclestack83/CarWash-Booking-App",
+                                "tooltipString": "see_on_github",
+                                "faIcon": "fa-brands fa-github"
+                            }
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "QuickWash-App",
+                            "text": "A mobile car wash application built with <b>React Native</b> (frontend) and <b>Laravel (PHP)</b> with <b>MySQL</b> (backend), designed for service providers to manage bookings and service delivery. Pulls all active bookings along with corresponding information about pickup/delivery locations. Allows service providers to quickly notify customers of their arrival and service progress. Enables sending service information, photos from cellphone camera directly into the database, and real-time GPS position tracking. Features offline capability - accessible even when there is no signal, will sync data once signal is regained.",
+                            "tags": [
+                                "React Native",
+                                "Laravel",
+                                "PHP",
+                                "MySQL",
+                                "Car Wash",
+                                "Mobile App",
+                                "GPS Tracking"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "categoryId": "category_apps",
+                    "img": "images/pictures/Portfolio/PynkDating/pynk-logo.png",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://github.com/miraclestack83/Pynk-Dating-App",
+                                "tooltipString": "see_on_github",
+                                "faIcon": "fa-brands fa-github"
+                            },
+                            {
+                                "href": "https://www.figma.com/proto/rzjCowCnOrm3eTI1dAHUQR/Pynk-Dating-App?node-id=1283-150&p=f&t=HlpkQJH14D8cFC7M-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=105%3A1932",
+                                "tooltipString": "open_website",
+                                "faIcon": "fa-brands fa-figma"
+                            }
+                        ],
+                        "screenshots": [
+                            "images/pictures/Portfolio/PynkDating/pynk-app1.png",
+                            "images/pictures/Portfolio/PynkDating/pynk-app2.png",
+                            "images/pictures/Portfolio/PynkDating/pynk-app3.png",
+                            "images/pictures/Portfolio/PynkDating/pynk-app4.png",
+                            "images/pictures/Portfolio/PynkDating/pynk-app5.png"
+                        ],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Pynk Dating-App",
+                            "text": "A cutting-edge dating application developed in <b>Flutter</b>, designed specifically for social influencers. The app offers a unique and engaging dating experience by incorporating <b>competitive matching</b> and <b>live games</b> to determine compatible matches. Users are presented with a series of challenges or questions, and their responses are compared to potential matches. The app employs an advanced algorithm that considers compatibility based on shared interests, values, and personality traits. Fosters a vibrant and supportive community for social influencers to connect, share experiences, and build meaningful relationships through interactive gameplay.",
+                            "tags": [
+                                "Flutter",
+                                "Dating App",
+                                "Social Influencers",
+                                "Competitive Matching",
+                                "Live Games"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "categoryId": "category_apps",
+                    "img": "images/pictures/Portfolio/LTLMaster/ltldrive-logo.png",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://github.com/miraclestack83/LTLDriver-Flutter",
+                                "tooltipString": "see_on_github",
+                                "faIcon": "fa-brands fa-github"
+                            },
+                            {
+                                "href": "https://play.google.com/store/apps/details?id=com.ltldriver.app",
+                                "tooltipString": "see_on_google_play",
+                                "faIcon": "fa-brands fa-google-play"
+                            }
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "LTLDriver-App",
+                            "text": "A mobile driver application built with <b>Flutter</b> for the LTLMaster transportation management system. Pulls all active loads along with corresponding information about pickup/delivery locations. Allows drivers to quickly notify the home office of their arrival and load/unload progress. Enables sending load information (weight, space used, etc.), photos from cellphone camera directly into the TMS database, and real-time GPS position tracking. Features offline capability - accessible even when there is no signal, will sync data once signal is regained.",
+                            "tags": [
+                                "Flutter",
+                                "Transportation",
+                                "Driver App",
+                                "GPS Tracking",
+                                "Offline Support"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "categoryId": "category_apps",
+                    "img": "",
+                    "faIcon": "fa-solid fa-bicycle",
+                    "faIconColors": {
+                        "bg": "#FF6B35",
+                        "fill": "#EEEEEE"
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://github.com/miraclestack83/RideMove",
+                                "tooltipString": "see_on_github",
+                                "faIcon": "fa-brands fa-github"
+                            },
+                            {
+                                "href": "https://www.figma.com/proto/jrho0Y43afRYPrtKtW9DH4/RideMove_LEO?node-id=1-2825&p=f&t=xR2hOaH8M9HZ0Vv4-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1",
+                                "tooltipString": "open_website",
+                                "faIcon": "fa-brands fa-figma"
+                            }
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "RideMove-App",
+                            "text": "An eScooter rental application built with <b>Flutter</b> (frontend) and <b>Node.js</b> (backend), designed for users to easily find, rent, and manage electric scooter rentals. Features interactive maps with OpenStreetMap integration, real-time scooter location tracking, booking management, and seamless payment processing. Provides a user-friendly interface for discovering available scooters nearby and managing rental sessions.",
+                            "tags": [
+                                "Flutter",
+                                "Node.js",
+                                "eScooter",
+                                "Rental App",
+                                "OpenStreetMap"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 7,
+                    "categoryId": "category_web",
+                    "img": "images/pictures/movemint-web-logo.png",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://movemint.io/",
+                                "tooltipString": "open_website",
+                                "faIcon": "fa-solid fa-link"
+                            }
+                        ],
+                        "screenshots": [
+                            "images/pictures/Portfolio/Movemint/movemint-web1.png",
+                            "images/pictures/Portfolio/Movemint/movemint-web2.png",
+                            "images/pictures/Portfolio/Movemint/movemint-web3.png",
+                            "images/pictures/Portfolio/Movemint/movemint-web4.png",
+                            "images/pictures/Portfolio/Movemint/movemint-web5.png",
+                            "images/pictures/Portfolio/Movemint/movemint-web6.png"
+                        ],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Movemint",
+                            "text": "A modern web marketplace platform built with <b>React.js</b> and <b>Next.js</b>, enabling customers to post move plans and budgets while carriers and movers can browse and apply to opportunities. Features include job board-style listings, competitive bidding, secure messaging, payment processing, and real-time updates for seamless coordination between customers and service providers.",
+                            "tags": [
+                                "React.js",
+                                "Next.js",
+                                "Marketplace",
+                                "Job Board"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 8,
+                    "categoryId": "category_web",
+                    "img": "images/pictures/peace2ukraine-logo.png",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://www.peace2ukraine.com/",
+                                "tooltipString": "open_website",
+                                "faIcon": "fa-solid fa-link"
+                            },
+                            {
+                                "href": "https://github.com/miraclestack83/Peace2Ukraine-NFT",
+                                "tooltipString": "see_on_github",
+                                "faIcon": "fa-brands fa-github"
+                            }
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Peace2Ukraine",
+                            "text": "An NFT marketplace website built with <b>React.js</b> (frontend) and <b>Node.js</b> (backend), featuring blockchain integration, secure transactions, and a user-friendly interface for buying and selling NFTs. Supports multiple wallets and provides a seamless trading experience.",
+                            "tags": [
+                                "React.js",
+                                "Node.js",
+                                "NFT",
+                                "Blockchain",
+                                "Marketplace",
+                                "Web3"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 9,
+                    "categoryId": "category_web",
+                    "img": "",
+                    "faIcon": "fa-solid fa-briefcase",
+                    "faIconColors": {
+                        "bg": "#6C3483",
+                        "fill": "#EEEEEE"
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://github.com/miraclestack83/Once-Place-CRM",
+                                "tooltipString": "see_on_github",
+                                "faIcon": "fa-brands fa-github"
+                            }
+                        ],
+                        "screenshots": [
+                            "images/pictures/Portfolio/OncePlace/login.gif",
+                            "images/pictures/Portfolio/OncePlace/homepage.gif",
+                            "images/pictures/Portfolio/OncePlace/orders.gif",
+                            "images/pictures/Portfolio/OncePlace/clients.gif",
+                            "images/pictures/Portfolio/OncePlace/events.gif",
+                            "images/pictures/Portfolio/OncePlace/admin.gif"
+                        ],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "One Place CRM",
+                            "text": "A comprehensive CRM and CRUD application built with <b>React.js</b> (frontend) and <b>Node.js, Express, MySQL</b> (backend), designed to manage businesses based on orders that don't require an online shop. Perfect for selling items on livestreams or other non-traditional e-commerce scenarios. Features include <b>authentication with Passport and bcrypt</b>, interactive earnings graphs, order and client management, events calendar, and an admin panel for user management. Styled with pure CSS and designed as a non-scrollable application.",
+                            "tags": [
+                                "React.js",
+                                "Node.js",
+                                "Express.js",
+                                "MySQL",
+                                "CRM",
+                                "Passport"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 10,
+                    "categoryId": "category_web",
+                    "img": "images/pictures/Portfolio/LTLMaster/ltldrive-logo.png",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://www.ltlmaster.com/",
+                                "tooltipString": "open_website",
+                                "faIcon": "fa-solid fa-link"
+                            }
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "LTLMaster",
+                            "text": "An advanced Transportation Enterprise Resource Planning (ERP) system designed to streamline and automate office tasks for transportation companies of all sizes. Built with <b>.NET Framework 4.8, C#</b>, and <b>ASP.NET Web API Core</b> for the backend, <b>Microsoft SQL Server 2016-2022</b> for database management, and <b>Java, JavaScript, Node.js, HTML5</b> for additional functionality. Features legacy integration with <b>VFP9</b> (Visual FoxPro) and <b>Google Flutter</b> for mobile applications. Supports multiple load types including LTL, Truckload (TL), containers, and multi-compartment tankers. Key features include comprehensive dispatching with automatic rating, full accounting integration with QuickBooks, advanced mapping with Google Maps/ProMiles/PcMiler integration, and web/mobile access for customers and drivers.",
+                            "tags": [
+                                "C#",
+                                "ASP.NET",
+                                "MS SQL Server",
+                                "Java",
+                                "JavaScript",
+                                "Node.js",
+                                "HTML5",
+                                "VFP9",
+                                "Flutter",
+                                "Transportation ERP"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 11,
+                    "categoryId": "category_others",
+                    "img": "",
+                    "faIcon": "fa-solid fa-robot",
+                    "faIconColors": {
+                        "bg": "#8B5CF6",
+                        "fill": "#EEEEEE"
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://github.com/miraclestack83/Pump-Swap-volum-bot",
+                                "tooltipString": "see_on_github",
+                                "faIcon": "fa-brands fa-github"
+                            }
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": "https://github.com/user-attachments/assets/562d597f-0961-47e0-802e-ae74341f1fea"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "PumpSwapBot",
+                            "text": "A high-performance trading bot built with <b>Node.js</b> and <b>TypeScript</b> that interacts with the Pump.fun AMM swap platform. Automates the distribution of SOL to multiple wallets and executes buy/sell swap transactions on the Pump.fun AMM platform. Features include automatic wallet creation and SOL airdrop, configurable buy/sell amounts and intervals, transaction logging and volume metrics, integration with PumpSwap SDK for bundler operations using Jito, and automatic withdrawal of remaining fees with token account closure.",
+                            "tags": [
+                                "Node.js",
+                                "TypeScript",
+                                "Trading Bot",
+                                "Solana",
+                                "PumpSwap",
+                                "Jito"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 12,
+                    "categoryId": "category_others",
+                    "img": "",
+                    "faIcon": "fa-solid fa-file-contract",
+                    "faIconColors": {
+                        "bg": "#4A90E2",
+                        "fill": "#EEEEEE"
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://github.com/miraclestack83/Peace2Ukraine-SmartContract",
+                                "tooltipString": "see_on_github",
+                                "faIcon": "fa-brands fa-github"
+                            }
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Peace2Ukraine SmartContract",
+                            "text": "A smart contract implementation for the Peace2Ukraine NFT marketplace, built for blockchain-based NFT transactions. Handles secure token minting, transfers, and marketplace operations with robust security features and gas optimization. Designed to support the Peace2Ukraine platform's NFT trading functionality with efficient on-chain operations.",
+                            "tags": [
+                                "Smart Contract",
+                                "Blockchain",
+                                "NFT",
+                                "Solidity",
+                                "Web3"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 13,
+                    "categoryId": "category_others",
+                    "img": "",
+                    "faIcon": "fa-solid fa-code",
+                    "faIconColors": {
+                        "bg": "#E65100",
+                        "fill": "#EEEEEE"
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://github.com/miraclestack83/Reactive-Dom",
+                                "tooltipString": "see_on_github",
+                                "faIcon": "fa-brands fa-github"
+                            }
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Reactive-Dom",
+                            "text": "A reactive DOM manipulation library built with <b>OCaml</b>, providing functional programming capabilities for building interactive web applications. Offers efficient DOM updates through reactive programming patterns, enabling developers to create dynamic user interfaces with declarative code. Features include reactive bindings, event handling, and seamless integration with OCaml's type system for type-safe web development.",
+                            "tags": [
+                                "OCaml",
+                                "Reactive Programming",
+                                "DOM",
+                                "Functional Programming",
+                                "Library"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 14,
+                    "categoryId": "category_others",
+                    "img": "",
+                    "faIcon": "fa-solid fa-robot",
+                    "faIconColors": {
+                        "bg": "#6366F1",
+                        "fill": "#EEEEEE"
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://github.com/miraclestack83/Multi-LLM-Agent",
+                                "tooltipString": "see_on_github",
+                                "faIcon": "fa-brands fa-github"
+                            }
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Multi-LLM-Agent",
+                            "text": "A <b>Retrieval-Augmented Generation (RAG)</b>-based multi-modal AI assistant built with <b>Python</b> and <b>Streamlit</b>. Leverages multiple advanced AI models including <b>Meta Llama 3</b>, <b>Microsoft Phi 3 Vision</b>, <b>IBM Granite</b>, and <b>OpenAI Whisper</b> to provide intelligent, context-aware responses. Features include text assistance for general queries, code assistance for programming help, image analysis and description, and voice recognition for speech-to-text conversion. Implements RAG architecture for enhanced context understanding and accurate responses across different input modalities.",
+                            "tags": [
+                                "Python",
+                                "RAG",
+                                "AI/ML",
+                                "Streamlit",
+                                "LLM",
+                                "Multi-Modal",
+                                "OpenAI Whisper",
+                                "Meta Llama 3"
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
