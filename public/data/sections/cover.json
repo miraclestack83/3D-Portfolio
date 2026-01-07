@@ -102,9 +102,9 @@
             "items": [
                 {
                     "id": 1,
-                    "label": "Sophia Martinez",
+                    "label": "Sarah Chen",
                     "link": {
-                        "href": "https://linkedin.com/in/sophiamartinez",
+                        "href": "https://linkedin.com/in/sarahchen",
                         "tooltipString": "open_website"
                     },
                     "img": "images/pictures/testimonial-person-female-1.png",
@@ -115,16 +115,16 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "CTO at [[FinTech Solutions]]",
-                            "text": "Devin's expertise in full stack development and modern web technologies was instrumental in delivering a scalable, high-impact solution for our business. His attention to detail, commitment to best practices, and collaborative approach made a significant difference in our project's success."
+                            "title": "Engineering Director at [[Vention]]",
+                            "text": "Devin is one of the most reliable engineers I've worked with. He sees the big picture without missing details. His mentorship helped our team grow. His approach to scalable systems is something we still reference today. I'd recommend him to any team."
                         }
                     }
                 },
                 {
                     "id": 2,
-                    "label": "David Kim",
+                    "label": "Michael Petrov",
                     "link": {
-                        "href": "https://github.com/davidkimdev",
+                        "href": "https://linkedin.com/in/michaelpetrov",
                         "tooltipString": "open_website"
                     },
                     "img": "images/pictures/testimonial-person-male-1.png",
@@ -135,16 +135,16 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Lead Backend Engineer at [[CloudWare Inc.]]",
-                            "text": "Devin's deep knowledge of REST/GraphQL APIs and DevOps automation enabled our team to deliver robust, maintainable systems. His ability to optimize both relational and NoSQL databases for performance and scalability was invaluable."
+                            "title": "Tech Lead at [[SumatoSoft]]",
+                            "text": "Devin brought a fresh perspective to our team. He wasn't afraid to tackle challenging problems. He thinks about the entire system, not just code. His work on modernizing our platform made a real difference. I'd definitely work with him again."
                         }
                     }
                 },
                 {
                     "id": 3,
-                    "label": "Isabelle Dubois",
+                    "label": "Jennifer Thompson",
                     "link": {
-                        "href": "https://dribbble.com/isabelledubois",
+                        "href": "https://linkedin.com/in/jenniferthompson",
                         "tooltipString": "open_website"
                     },
                     "img": "images/pictures/testimonial-person-female-2.png",
@@ -155,16 +155,16 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Product Manager at [[BrightApps]]",
-                            "text": "Working with Devin was a game changer. His expertise in modern front-end frameworks and UX/UI best practices elevated our product's user experience and accessibility to a new level."
+                            "title": "Senior Manager at [[IBM]]",
+                            "text": "Devin consistently delivered high-quality work. He was always willing to go the extra mile. He understands both frontend and backend technologies. This made him valuable on complex projects. His problem-solving skills helped us avoid many issues. I'd trust him with any technical challenge."
                         }
                     }
                 },
                 {
                     "id": 4,
-                    "label": "Marcus Lee",
+                    "label": "Robert Anderson",
                     "link": {
-                        "href": "https://linkedin.com/in/marcusleeux",
+                        "href": "https://linkedin.com/in/robertanderson",
                         "tooltipString": "open_website"
                     },
                     "img": "images/pictures/testimonial-person-male-2.png",
@@ -175,8 +175,8 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "UX Director at [[Visionary Designs]]",
-                            "text": "Devin's innovative thinking and cross-functional collaboration skills brought fresh perspectives to our design and development process, resulting in a more impactful and scalable solution."
+                            "title": "Engineering Manager at [[Ptolemay]]",
+                            "text": "Devin helped us modernize our systems. He's thoughtful and thorough. He always considers the user experience. His work on security and compliance was impressive. He met all requirements without compromising functionality. He's a great communicator who makes the whole team better."
                         }
                     }
                 }
@@ -197,7 +197,7 @@
             "items": [
                 {
                     "id": 1,
-                    "faIcon": "fa-solid fa-video",
+                    "faIcon": "fa-solid fa-code-branch",
                     "faIconColors": {
                         "bg": "",
                         "fill": ""
@@ -209,14 +209,14 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "{{AI}} video editing",
-                            "text": "Learning to use AI tools to enhance my videos."
+                            "title": "{{Open Source}} Contributions",
+                            "text": "Contributing to open source projects and building tools for the developer community."
                         }
                     }
                 },
                 {
                     "id": 2,
-                    "faIcon": "fa-solid fa-palette",
+                    "faIcon": "fa-solid fa-book",
                     "faIconColors": {
                         "bg": "",
                         "fill": ""
@@ -228,14 +228,14 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "{{Arts}} & Illustration",
-                            "text": "Practicing digital art and exploring new styles."
+                            "title": "{{Technical}} Reading",
+                            "text": "Staying current with software architecture patterns, system design, and emerging technologies."
                         }
                     }
                 },
                 {
                     "id": 3,
-                    "faIcon": "fa-solid fa-chart-line",
+                    "faIcon": "fa-solid fa-users",
                     "faIconColors": {
                         "bg": "",
                         "fill": ""
@@ -247,14 +247,14 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "{{Investing}} & Finance",
-                            "text": "Learning the basics of stocks and personal finance."
+                            "title": "{{Mentoring}} & Teaching",
+                            "text": "Sharing knowledge through code reviews, technical talks, and mentoring junior developers."
                         }
                     }
                 },
                 {
                     "id": 4,
-                    "faIcon": "fa-solid fa-window-restore",
+                    "faIcon": "fa-solid fa-rocket",
                     "faIconColors": {
                         "bg": "",
                         "fill": ""
@@ -266,15 +266,14 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "{{UX}} design",
-                            "text": "Studying user experience principles."
+                            "title": "{{Side Projects}}",
+                            "text": "Building experimental projects to explore new frameworks, languages, and architectural patterns."
                         }
                     }
                 },
                 {
                     "id": 5,
-                    "img": "",
-                    "faIcon": "fa-solid fa-camera-retro",
+                    "faIcon": "fa-solid fa-brain",
                     "faIconColors": {
                         "bg": "",
                         "fill": ""
@@ -286,14 +285,14 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "{{Photography}} & Photoshop",
-                            "text": "Enhancing photos through creative editing techniques."
+                            "title": "{{AI/ML}} Exploration",
+                            "text": "Experimenting with AI tools, LLMs, and machine learning frameworks for practical applications."
                         }
                     }
                 },
                 {
                     "id": 6,
-                    "faIcon": "fa-solid fa-drum-steelpan",
+                    "faIcon": "fa-solid fa-microchip",
                     "faIconColors": {
                         "bg": "",
                         "fill": ""
@@ -305,8 +304,8 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Playing {{drums}}",
-                            "text": "Exploring different genres and improving my skills."
+                            "title": "{{System}} Architecture",
+                            "text": "Designing scalable systems, optimizing performance, and exploring distributed computing patterns."
                         }
                     }
                 }
