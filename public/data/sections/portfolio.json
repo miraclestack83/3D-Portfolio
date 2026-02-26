@@ -32,7 +32,7 @@
             },
             "items": [
                 {
-                    "id": 1,
+                    "id": 3,
                     "categoryId": "category_apps",
                     "img": "images/pictures/movemint-app-logo.png",
                     "faIcon": "",
@@ -72,7 +72,7 @@
                     }
                 },
                 {
-                    "id": 2,
+                    "id": 4,
                     "categoryId": "category_web",
                     "img": "images/pictures/QuickWash.png",
                     "faIcon": "",
@@ -116,7 +116,7 @@
                     }
                 },
                 {
-                    "id": 3,
+                    "id": 5,
                     "categoryId": "category_apps",
                     "img": "images/pictures/QuickWash.png",
                     "faIcon": "",
@@ -158,7 +158,7 @@
                     }
                 },
                 {
-                    "id": 4,
+                    "id": 6,
                     "categoryId": "category_apps",
                     "img": "images/pictures/Portfolio/PynkDating/pynk-logo.png",
                     "faIcon": "",
@@ -204,7 +204,7 @@
                     }
                 },
                 {
-                    "id": 5,
+                    "id": 7,
                     "categoryId": "category_apps",
                     "img": "images/pictures/Portfolio/LTLMaster/ltldrive-logo.png",
                     "faIcon": "",
@@ -244,7 +244,7 @@
                     }
                 },
                 {
-                    "id": 6,
+                    "id": 8,
                     "categoryId": "category_apps",
                     "img": "",
                     "faIcon": "fa-solid fa-bicycle",
@@ -284,7 +284,7 @@
                     }
                 },
                 {
-                    "id": 7,
+                    "id": 9,
                     "categoryId": "category_web",
                     "img": "images/pictures/movemint-web-logo.png",
                     "faIcon": "",
@@ -325,7 +325,7 @@
                     }
                 },
                 {
-                    "id": 8,
+                    "id": 10,
                     "categoryId": "category_web",
                     "img": "images/pictures/peace2ukraine-logo.png",
                     "faIcon": "",
@@ -366,7 +366,7 @@
                     }
                 },
                 {
-                    "id": 9,
+                    "id": 11,
                     "categoryId": "category_web",
                     "img": "",
                     "faIcon": "fa-solid fa-briefcase",
@@ -409,7 +409,7 @@
                     }
                 },
                 {
-                    "id": 10,
+                    "id": 12,
                     "categoryId": "category_web",
                     "img": "images/pictures/Portfolio/LTLMaster/ltldrive-logo.png",
                     "faIcon": "",
@@ -449,7 +449,7 @@
                     }
                 },
                 {
-                    "id": 11,
+                    "id": 13,
                     "categoryId": "category_others",
                     "img": "",
                     "faIcon": "fa-solid fa-robot",
@@ -485,7 +485,7 @@
                     }
                 },
                 {
-                    "id": 12,
+                    "id": 14,
                     "categoryId": "category_others",
                     "img": "",
                     "faIcon": "fa-solid fa-file-contract",
@@ -520,7 +520,7 @@
                     }
                 },
                 {
-                    "id": 13,
+                    "id": 15,
                     "categoryId": "category_others",
                     "img": "",
                     "faIcon": "fa-solid fa-code",
@@ -555,7 +555,7 @@
                     }
                 },
                 {
-                    "id": 14,
+                    "id": 16,
                     "categoryId": "category_others",
                     "img": "",
                     "faIcon": "fa-solid fa-robot",
@@ -588,6 +588,83 @@
                                 "Multi-Modal",
                                 "OpenAI Whisper",
                                 "Meta Llama 3"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 1,
+                    "categoryId": "category_web",
+                    "img": "images/pictures/texastrip-icon.png",
+                    "faIcon": "fa-solid fa-utensils",
+                    "faIconColors": {
+                        "bg": "#C41E3A",
+                        "fill": "#EEEEEE"
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "http://heliosdirect.com/",
+                                "tooltipString": "open_website",
+                                "faIcon": "fa-solid fa-link"
+                            }
+                        ],
+                        "screenshots": [
+                            "images/pictures/texastripp1.png",
+                            "images/pictures/texastrip2.png",
+                            "images/pictures/texastripe3.png",
+                            "images/pictures/texastrip4.png"
+                        ],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Texas Tripe",
+                            "text": "A commercial <b>Food Inventory Management</b> system built with <b>React.js</b> (frontend) and <b>Node.js</b> (backend) with <b>MariaDB</b>. Features include inventory management, production line tracking, scheduling, and related operations for food and commercial operations.",
+                            "tags": [
+                                "React.js",
+                                "Node.js",
+                                "MariaDB",
+                                "Inventory Management",
+                                "Production Line",
+                                "Schedule"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "categoryId": "category_web",
+                    "img": "images/pictures/tradeit-icon.png",
+                    "faIcon": "fa-solid fa-briefcase",
+                    "faIconColors": {
+                        "bg": "#0D9488",
+                        "fill": "#EEEEEE"
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://tradeitfwd.com/",
+                                "tooltipString": "open_website",
+                                "faIcon": "fa-solid fa-link"
+                            }
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "TRADEITFWD",
+                            "text": "A full-stack <b>job site</b> platform built with <b>React.js</b> (frontend) and <b>Node.js</b> (backend) with <b>MySQL</b> for the database. Enables job seekers to browse and apply for positions and employers to post openings and manage candidates. Features a responsive UI, search and filters, application tracking, and secure authentication. Delivers a modern recruitment experience from listing to hire.",
+                            "tags": [
+                                "React.js",
+                                "Node.js",
+                                "MySQL",
+                                "Job Board",
+                                "Recruitment",
+                                "Full-Stack"
                             ]
                         }
                     }

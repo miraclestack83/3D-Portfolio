@@ -86,7 +86,8 @@ export default class ArticleDataWrapper {
     _parseItems(rawData, language, theme) {
         const rawItems = rawData.items || []
         return rawItems.map((rawItem, key) => {
-            return new ArticleItemDataWrapper(this, rawItem, language, theme, key + 1)
+            const id = rawItem.id != null ? rawItem.id : key + 1
+            return new ArticleItemDataWrapper(this, rawItem, language, theme, id)
         })
     }
 
