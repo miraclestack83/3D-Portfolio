@@ -14,7 +14,7 @@
             "id": 1,
             "component": "ArticleContactForm",
             "settings": {
-                "email_js_public_key": "XfXxWjtAqDuiyl75I", 
+                "email_js_public_key": "XfXxWjtAqDuiyl75I",
                 "email_js_service_id": "service_ynh70rz",
                 "email_js_template_id": "template_fq16p8d"
             },
@@ -84,9 +84,9 @@
                         "bg": "",
                         "fill": ""
                     },
-                    "label": "@devin-h-239b021a5",
+                    "label": "@devern-h-239b021a5",
                     "link": {
-                        "href": "https://www.linkedin.com/in/devin-h-239b021a5",
+                        "href": "https://www.linkedin.com/in/devern-h-239b021a5",
                         "tooltipString": "open_website"
                     },
                     "locales": {
@@ -110,6 +110,24 @@
                     "locales": {
                         "en": {
                             "title": "GitHub"
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "faIcon": "fa-solid fa-globe",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "label": "dhocutt.vercel.app",
+                    "link": {
+                        "href": "https://dhocutt.vercel.app/",
+                        "tooltipString": "open_website"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Website"
                         }
                     }
                 }

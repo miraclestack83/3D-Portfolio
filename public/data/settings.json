@@ -8,7 +8,7 @@
     "preloaderSettings": {
         "enabled": true,
         "title": "<strong>Portfolio</strong>",
-        "subtitle": "by Devin Hocutt",
+        "subtitle": "by Devern Hocutt",
         "logoOffset": {
             "right": 14,
             "top": 2,
@@ -53,10 +53,10 @@
         }
     ],
     "consoleMessageForDevelopers": {
-        "title": "\uD83D\uDDA5️ Hey there, fellow developer!",
+        "title": "🖥️ Hey there, fellow developer!",
         "items": [
             {
-                "description": "This is portfolio for Devin Hocutt, a Senior Full-Stack Developer.",
+                "description": "This is the portfolio of Devern Hocutt, a Senior AI Full Stack Engineer.",
                 "list": [],
                 "listStyle": "none"
             },
@@ -76,7 +76,8 @@
                 "description": "Developer Info:",
                 "list": [
                     "GitHub: https://github.com/miraclestack83",
-                    "LinkedIn: https://www.linkedin.com/in/devin-h-239b021a5"
+                    "LinkedIn: https://www.linkedin.com/in/devern-h-239b021a5",
+                    "Website: https://dhocutt.vercel.app/"
                 ],
                 "listStyle": "bulleted"
             }

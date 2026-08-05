@@ -1,5 +1,5 @@
 {
-    "name": "Devin Hocutt",
+    "name": "Devern Hocutt",
     "profilePictureUrl": "images/pictures/profile-devin.jpeg",
     "resumePdfUrl": "",
     "statusCircleVisible": true,
@@ -7,14 +7,14 @@
     "statusCircleHoverMessage": "status_message_available_for_freelance",
     "locales": {
         "en": {
-            "localized_name": "Devin Hocutt",
-            "localized_name_stylized": " [[Devin {{Hocutt}}]]",
+            "localized_name": "Devern Hocutt",
+            "localized_name_stylized": " [[Devern {{Hocutt}}]]",
             "status_message_available_for_freelance": "Open To Work!",
             "roles": [
-                "Senior Full-Stack Engineer",
-                "Senior Full-Stack Developer",
-                "Software Engineer",
-                "Full-Stack Software Engineer"
+                "Senior AI Full Stack Engineer",
+                "AI & Intelligent Systems Engineer",
+                "Full-Stack Software Engineer",
+                "Cloud-Native Platform Architect"
             ]
         }
     }

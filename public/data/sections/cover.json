@@ -5,7 +5,7 @@
                 "title_short": "Welcome!",
                 "title_short_nav": "About me",
                 "title_long_prefix": "Hello...",
-                "title_long": "I'm {{Devin Hocutt!}}"
+                "title_long": "I'm {{Devern Hocutt!}}"
             }
         }
     },
@@ -22,7 +22,7 @@
             "items": [
                 {
                     "id": 1,
-                    "label": "Fuquay Varina, NC 27526",
+                    "label": "Middlesex, NC 27557",
                     "link": {
                         "href": "",
                         "tooltipString": ""
@@ -81,7 +81,7 @@
                     },
                     "locales": {
                         "en": {
-                            "text": "<p>Innovative {{Senior Full-Stack Engineer}} with over a decade of experience architecting and scaling high-performance web platforms using React.js, Next.js, Node.js/Express, and MongoDB or SQL. Highly versatile across Angular.js, Vue.js, and Nest.js, and experienced with Python/Django, C#/.NET, Java/Spring Boot and PHP/Laravel for cross-platform and enterprise-grade development.</p><p>Experienced across SaaS, eCommerce, healthcare, and enterprise automation, delivering solutions that transform complex ideas into lasting impact. Guided by the belief that \"the only way to do great work is to love what you do,\" I approach every project with purpose, precision, and pride in engineering excellence.</p>"
+                            "text": "<p>{{Senior AI Full Stack Engineer}} with 10+ years of experience architecting scalable software platforms, AI-powered applications, and cloud-native enterprise solutions across SaaS, Healthcare, FinTech, Logistics, eCommerce, and Marketplace domains.</p><p>Experienced in building production AI systems using [[Large Language Models (LLMs)]], [[Retrieval-Augmented Generation (RAG)]], vector embeddings, semantic search, machine learning models, computer vision, and intelligent automation workflows. Combines deep full-stack expertise across React, TypeScript, Node.js, Python, FastAPI, Java, C#/.NET, AWS, and Azure with a proven ability to transform complex business requirements into secure, scalable products that improve operational efficiency and customer experience.</p>"
                         }
                     }
                 }
@@ -116,7 +116,7 @@
                     "locales": {
                         "en": {
                             "title": "Engineering Director at [[Vention]]",
-                            "text": "Devin is one of the most reliable engineers I've worked with. He sees the big picture without missing details. His mentorship helped our team grow. His approach to scalable systems is something we still reference today. I'd recommend him to any team."
+                            "text": "Devern led our AI-enabled SaaS platform with exceptional clarity. He designs systems that scale and mentors engineers with real impact. His LLM and RAG workflows cut our document review workload dramatically. I'd recommend him to any team building production AI products."
                         }
                     }
                 },
@@ -136,7 +136,7 @@
                     "locales": {
                         "en": {
                             "title": "Tech Lead at [[SumatoSoft]]",
-                            "text": "Devin brought a fresh perspective to our team. He wasn't afraid to tackle challenging problems. He thinks about the entire system, not just code. His work on modernizing our platform made a real difference. I'd definitely work with him again."
+                            "text": "Devern brought deep AI and full-stack expertise to our team. He architected marketplace platforms and an AI gesture recognition system with over 90% accuracy. He thinks about the entire system, not just code. I'd definitely work with him again."
                         }
                     }
                 },
@@ -156,7 +156,7 @@
                     "locales": {
                         "en": {
                             "title": "Senior Manager at [[IBM]]",
-                            "text": "Devin consistently delivered high-quality work. He was always willing to go the extra mile. He understands both frontend and backend technologies. This made him valuable on complex projects. His problem-solving skills helped us avoid many issues. I'd trust him with any technical challenge."
+                            "text": "Devern consistently delivered high-quality work across frontend and backend. He improved Angular performance, optimized APIs, and stabilized payment workflows. His problem-solving skills helped us avoid many issues. I'd trust him with any technical challenge."
                         }
                     }
                 },
@@ -176,7 +176,7 @@
                     "locales": {
                         "en": {
                             "title": "Engineering Manager at [[Ptolemay]]",
-                            "text": "Devin helped us modernize our systems. He's thoughtful and thorough. He always considers the user experience. His work on security and compliance was impressive. He met all requirements without compromising functionality. He's a great communicator who makes the whole team better."
+                            "text": "Devern helped us modernize healthcare systems with strong attention to HIPAA compliance and security. He's thoughtful, thorough, and always considers the user experience. He's a great communicator who makes the whole team better."
                         }
                     }
                 }
@@ -197,6 +197,25 @@
             "items": [
                 {
                     "id": 1,
+                    "faIcon": "fa-solid fa-brain",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "label": null,
+                    "link": {
+                        "href": null,
+                        "tooltipString": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{AI & LLM}} Systems",
+                            "text": "Building production RAG pipelines, AI agents, semantic search, and evaluation loops that make LLM outputs reliable."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
                     "faIcon": "fa-solid fa-code-branch",
                     "faIconColors": {
                         "bg": "",
@@ -215,25 +234,6 @@
                     }
                 },
                 {
-                    "id": 2,
-                    "faIcon": "fa-solid fa-book",
-                    "faIconColors": {
-                        "bg": "",
-                        "fill": ""
-                    },
-                    "label": null,
-                    "link": {
-                        "href": null,
-                        "tooltipString": null
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "{{Technical}} Reading",
-                            "text": "Staying current with software architecture patterns, system design, and emerging technologies."
-                        }
-                    }
-                },
-                {
                     "id": 3,
                     "faIcon": "fa-solid fa-users",
                     "faIconColors": {
@@ -247,51 +247,13 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "{{Mentoring}} & Teaching",
-                            "text": "Sharing knowledge through code reviews, technical talks, and mentoring junior developers."
+                            "title": "{{Mentoring}} & Leadership",
+                            "text": "Mentoring engineers, running architecture reviews, and establishing standards that raise team quality."
                         }
                     }
                 },
                 {
                     "id": 4,
-                    "faIcon": "fa-solid fa-rocket",
-                    "faIconColors": {
-                        "bg": "",
-                        "fill": ""
-                    },
-                    "label": null,
-                    "link": {
-                        "href": null,
-                        "tooltipString": null
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "{{Side Projects}}",
-                            "text": "Building experimental projects to explore new frameworks, languages, and architectural patterns."
-                        }
-                    }
-                },
-                {
-                    "id": 5,
-                    "faIcon": "fa-solid fa-brain",
-                    "faIconColors": {
-                        "bg": "",
-                        "fill": ""
-                    },
-                    "label": null,
-                    "link": {
-                        "href": null,
-                        "tooltipString": null
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "{{AI/ML}} Exploration",
-                            "text": "Experimenting with AI tools, LLMs, and machine learning frameworks for practical applications."
-                        }
-                    }
-                },
-                {
-                    "id": 6,
                     "faIcon": "fa-solid fa-microchip",
                     "faIconColors": {
                         "bg": "",
@@ -305,7 +267,45 @@
                     "locales": {
                         "en": {
                             "title": "{{System}} Architecture",
-                            "text": "Designing scalable systems, optimizing performance, and exploring distributed computing patterns."
+                            "text": "Designing multi-tenant SaaS, event-driven systems, and cloud-native platforms that scale securely."
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "faIcon": "fa-solid fa-robot",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "label": null,
+                    "link": {
+                        "href": null,
+                        "tooltipString": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{AI-Assisted}} Engineering",
+                            "text": "Leveraging Cursor, Claude, GitHub Copilot, and OpenAI tools to accelerate high-quality delivery."
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "faIcon": "fa-solid fa-book",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "label": null,
+                    "link": {
+                        "href": null,
+                        "tooltipString": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Technical}} Reading",
+                            "text": "Staying current with AI systems design, distributed architecture patterns, and emerging ML tooling."
                         }
                     }
                 }

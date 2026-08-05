@@ -25,25 +25,25 @@
                     "faIcon": "",
                     "faIconColors": { "bg": "", "fill": "" },
                     "dateStart": { "year": 2022, "month": 12 },
-                    "dateEnd": { "year": 2025, "month": 12 },
+                    "dateEnd": { "year": 2026, "month": 5 },
                     "locales": {
                         "en": {
-                            "title": "{{Senior Full Stack}} Engineer",
+                            "title": "{{Senior AI Full Stack}} Engineer",
                             "province": "New York, NY",
                             "country": "US",
                             "institution": "Vention",
-                            "text": "Texas Tripe – Inventory Management System",
+                            "text": "AI-enabled multi-tenant SaaS warehouse & inventory platform",
                             "list": [
-                                "Led full-stack development using TypeScript, React.js, Node.js, and MariaDB to build an inventory management system for a commercial food producer from the ground up.",
-                                "Translated Figma designs into a fully responsive React application and removed dozens of duplicated files and functions by building reusable component architecture and a well-structured project system, significantly improving maintainability and accelerating future development.",
-                                "Reduced page load times from 3s to 1.2s through frontend optimization and backend query tuning.",
-                                "Designed and built RESTful APIs with structured business logic improving clarity and extensibility.",
-                                "Built custom Plop.js templates to automatically generate CRUD REST modules, reducing API development time by over 30% and shortening overall development cycles.",
-                                "Implemented structured API testing automation scripts and database seeders using Insomnia, decreasing local setup time from 20 minutes to under 1 minute, and improving development efficiency.",
-                                "Containerized and deployed the application to AWS ECS and built automated CI/CD pipelines with GitHub Actions, minimizing release-related issues and enabling faster, more reliable production releases.",
-                                "Authored API, component usage and unit testing documentation and mentored junior engineers, reducing onboarding time for new developers by half."
+                                "Led architecture and development of an AI-enabled multi-tenant SaaS warehouse and inventory management platform using TypeScript, React.js, Node.js, PostgreSQL, Redis, AWS ECS, and OpenAI APIs, supporting multiple enterprise organizations and increasing daily active users by 300%.",
+                                "Designed and deployed LLM-powered document intelligence workflows using OpenAI GPT models, Retrieval-Augmented Generation (RAG), vector embeddings, and prompt engineering, processing 10,000+ business documents monthly, reducing manual review workload by 60%, and saving hundreds of operational hours annually.",
+                                "Developed scalable AI application services using Python, FastAPI, REST APIs, asynchronous processing, and AWS cloud architecture, supporting 5,000+ AI requests daily with optimized inference workflows, improved reliability, and efficient cloud resource utilization.",
+                                "Established AI evaluation and optimization workflows using prompt testing, retrieval benchmarking, response quality analysis, and user feedback loops, improving LLM response reliability and reducing manual AI output reviews by 200+ hours annually.",
+                                "Built AI-powered React/TypeScript interfaces including intelligent dashboards, workflow automation screens, and AI-assisted user experiences, enabling business teams to automate repetitive workflows and improve operational productivity.",
+                                "Integrated AI-assisted engineering workflows using GitHub Copilot, Claude, Cursor, and OpenAI-powered development tools, accelerating development cycles, improving code quality, and increasing engineering productivity.",
+                                "Implemented production deployment pipelines using Docker, AWS ECS, GitHub Actions, and CI/CD automation, reducing deployment failures by 40% and enabling reliable delivery of AI-powered features.",
+                                "Mentored 5 engineers, conducted architecture reviews, and established engineering standards that improved code quality and accelerated cross-team collaboration."
                             ],
-                            "tags": ["TypeScript", "React.js", "Node.js", "MariaDB", "REST APIs", "Plop.js", "AWS ECS", "GitHub Actions", "Figma"]
+                            "tags": ["TypeScript", "React.js", "Node.js", "Python", "FastAPI", "PostgreSQL", "Redis", "OpenAI", "RAG", "LLMs", "AWS ECS", "Docker", "GitHub Actions"]
                         }
                     }
                 },
@@ -53,22 +53,27 @@
                     "faIcon": "",
                     "faIconColors": { "bg": "", "fill": "" },
                     "dateStart": { "year": 2018, "month": 5 },
-                    "dateEnd": { "year": 2025, "month": 12 },
+                    "dateEnd": { "year": 2022, "month": 12 },
                     "locales": {
                         "en": {
-                            "title": "{{Senior Full Stack}} Developer",
+                            "title": "{{Senior Software Engineer}} (AI & Intelligent Systems)",
                             "province": "Boston, MA",
                             "country": "US",
                             "institution": "SumatoSoft",
-                            "text": "TradeItFwd – Job Marketplace Platform",
+                            "text": "SaaS, marketplace platforms & AI-powered intelligent systems",
                             "list": [
-                                "Architected a scalable backend structure and relational database aligned with real-world marketplace logic (users, contracts, bids, payments, messaging, reviews) using React.js, Node.js, and MySQL.",
-                                "Structured the frontend with reusable functional React components and a clean modular architecture.",
-                                "Built a real-time chat system supporting private messaging, group conversations, and dedicated admin support channels using Socket.io. Optimized event handling and message delivery, reducing average message latency from 1.2s to 0.6s.",
-                                "Deployed the platform to AWS and implemented CI/CD pipelines using Jenkins and GitHub Actions, reducing deployment risk and improving release reliability while maintaining 99%+ server uptime.",
-                                "Created 35+ technical documents covering REST APIs, reusable components, and business logic, while mentoring junior developers and UI designers to reduce onboarding time and improve team velocity."
+                                "Architected and delivered scalable SaaS and marketplace platforms using React.js, Next.js, Node.js, NestJS, PostgreSQL, MongoDB, Redis, and AWS, supporting 5,000+ users across contracts, payments, subscriptions, messaging, and enterprise workflows.",
+                                "Designed and developed an AI-powered hand gesture language recognition system using Python, computer vision, machine learning classification models, and image processing pipelines, achieving over 90% recognition accuracy through dataset refinement, feature engineering, model optimization, and validation testing.",
+                                "Developed intelligent automation solutions by integrating machine learning services, AI APIs, data processing pipelines, and business workflow automation, automating repetitive operational processes and reducing manual processing effort by 40%.",
+                                "Designed scalable AI-ready data architectures using structured data modeling, API platforms, event-driven workflows, and backend processing pipelines, enabling reliable data access for machine learning applications and enterprise intelligent workflows.",
+                                "Led development of secure enterprise SaaS platforms using Java, Spring Boot, React.js, PostgreSQL, Redis, OAuth2/OIDC, JWT, RBAC, audit logging, and encryption, supporting 5,000+ users across multiple organizations while maintaining secure multi-tenant operations.",
+                                "Built real-time communication systems using Socket.io, Redis Pub/Sub, and WebSockets, supporting 10,000+ concurrent users while reducing message delivery latency by 50%.",
+                                "Developed REST and GraphQL APIs enabling integrations with third-party platforms, payment providers, mobile applications, and enterprise systems.",
+                                "Optimized PostgreSQL query execution, indexing strategies, and caching mechanisms, reducing average response times from 1.8 seconds to 700ms.",
+                                "Implemented AWS deployment workflows using Docker, Jenkins, and GitHub Actions, maintaining 99%+ application uptime.",
+                                "Authored 35+ technical specifications, API standards, and reusable development guides that improved engineering consistency across distributed teams."
                             ],
-                            "tags": ["React.js", "Node.js", "MySQL", "Socket.io", "AWS", "Jenkins", "GitHub Actions"]
+                            "tags": ["React.js", "Next.js", "Node.js", "NestJS", "Python", "Computer Vision", "ML", "Java", "Spring Boot", "PostgreSQL", "MongoDB", "Redis", "GraphQL", "AWS", "Docker"]
                         }
                     }
                 },
@@ -85,10 +90,10 @@
                             "province": "Armonk, NY",
                             "country": "US",
                             "institution": "IBM",
-                            "text": "LTLMaster – Delivery service booking system",
+                            "text": "Driver Shipment Support System & logistics platforms",
                             "list": [
-                                "Improved Angular frontend performance using RxJS and NgRx state management, reducing initial load time by 35%, enhancing UI responsiveness, and contributing to a 12% increase in user engagement.",
                                 "Enhanced the Driver Shipment Support System using C#/.NET, ASP.NET MVC, LINQ, and SQL Server, building advanced AngularJS admin features and integrating GPS tracking with MQTT-based real-time messaging, reducing delivery status update latency by 40%.",
+                                "Improved Angular frontend performance using RxJS and NgRx state management, reducing initial load time by 35%, enhancing UI responsiveness, and contributing to a 12% increase in user engagement.",
                                 "Optimized RESTful APIs and SQL Server queries, improving response times by up to 15% and ensuring reliable synchronization between driver devices and backend services deployed on Microsoft Azure.",
                                 "Designed and integrated a secure and fair payment workflow using Stripe and escrow services, significantly reducing payment dispute reports from 30+ in early development stages to fewer than 3 after stabilization."
                             ],
@@ -109,14 +114,15 @@
                             "province": "Walnut, CA",
                             "country": "US",
                             "institution": "Ptolemay",
-                            "text": "",
+                            "text": "Enterprise dental management & HIPAA-compliant healthcare systems",
                             "list": [
-                                "Developed enterprise dental management systems using ASP.NET + Angular, improving workflow efficiency by over 20%. Programmed RESTful APIs in .NET with SQL Server, increasing data reliability by over 10% and improving sync performance.",
-                                "Implemented Jenkins-driven automated testing pipelines, cutting post-release bugs by 32%.",
+                                "Developed enterprise dental management systems using ASP.NET + Angular, improving workflow efficiency by over 20%.",
+                                "Programmed RESTful APIs in .NET with SQL Server, increasing data reliability by over 10% and improving sync performance.",
+                                "Designed scalable patient management, appointment scheduling, billing, insurance processing, and EHR integration systems supporting hundreds of healthcare professionals.",
                                 "Enforced end-to-end HIPAA compliance frameworks with AES-256 encryption and RBAC policies, passing 100% of security audits and preventing compliance violations across 3 enterprise deployments.",
-                                "Modernized UI workflows, improving task completion time by 20% and increasing user satisfaction scores."
+                                "Improved database performance through indexing, query optimization, and schema redesign, increasing processing efficiency by 40%."
                             ],
-                            "tags": ["ASP.NET", "Angular", ".NET", "SQL Server", "Jenkins", "HIPAA", "AES-256", "RBAC"]
+                            "tags": ["ASP.NET", "Angular", ".NET", "SQL Server", "HIPAA", "AES-256", "RBAC", "EHR"]
                         }
                     }
                 },
@@ -133,13 +139,13 @@
                             "province": "Las Vegas, NV",
                             "country": "US",
                             "institution": "NetEffect",
-                            "text": "",
+                            "text": "Custom client solutions & eCommerce platforms",
                             "list": [
-                                "Developed LAMP-based eCommerce and real estate platforms using PHP (Laravel) and MySQL, achieving over 90% uptime and 28% faster response times. Launched 20+ eCommerce websites using WordPress and Shopify.",
-                                "Built responsive layouts using HTML, CSS, and jQuery, improving mobile usability by 30%.",
-                                "Delivered content-driven platforms using Python/Django + React.js, reducing load times by 33% and increasing engagement by 20%."
+                                "Developed 15+ custom client solutions using PHP, Laravel, MySQL, JavaScript, HTML, CSS, and jQuery, including car wash booking systems, reservation platforms, and CRM solutions.",
+                                "Successfully built and launched 20+ eCommerce websites using WordPress, Shopify, and custom PHP solutions, helping small and mid-sized businesses expand their online presence and increase customer acquisition.",
+                                "Optimized website performance through SEO best practices, caching strategies, database tuning, and frontend optimization, reducing page load times by up to 35% and improving search visibility."
                             ],
-                            "tags": ["PHP", "Laravel", "MySQL", "WordPress", "Shopify", "HTML", "CSS", "jQuery", "Python", "Django", "React.js"]
+                            "tags": ["PHP", "Laravel", "MySQL", "WordPress", "Shopify", "JavaScript", "HTML", "CSS", "jQuery", "SEO"]
                         }
                     }
                 }
